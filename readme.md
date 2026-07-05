@@ -12,7 +12,7 @@
 
 <p>Pour réaliser cette page, j'ai utilisé les technologies fondamentales du web :</p>
 <ul>
-<li>TML5 : Pour structurer le contenu de manière sémantique (<header>, <section>, <article>, <footer>).</li>
+<li>TML5 : Pour structurer le contenu de manière sémantique (header, section,footer, main ).</li>
 <li> CSS3 : Pour la mise en page, le choix des polices, les couleurs, et le design global (utilisation des bases du responsive design/Flexbox). </li>
 <li> Git & GitHub : Pour le contrôle de version et l'hébergement du code.</li>
 </ul>
