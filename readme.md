@@ -13,7 +13,7 @@
 
 <p>Pour réaliser cette page, j'ai utilisé les technologies fondamentales du web :</p>
 <ul>
-<li>TML5 : Pour structurer le contenu de manière sémantique (header, section,footer, main ).</li>
+<li>HTML : Pour structurer le contenu de manière sémantique (header, section,footer, main ).</li>
 <li>Git : Gérer les versions du projet et suivre les modifications. </li>
 <li>GitHub : Héberger le projet en ligne et collaborer avec d’autres développeurs. </li>
 </ul>
